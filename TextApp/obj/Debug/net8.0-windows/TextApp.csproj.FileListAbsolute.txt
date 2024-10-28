@@ -1,0 +1,14 @@
+C:\Users\nouser\source\repos\TextApp\TextApp\bin\Debug\net8.0-windows\TextApp.exe
+C:\Users\nouser\source\repos\TextApp\TextApp\bin\Debug\net8.0-windows\TextApp.deps.json
+C:\Users\nouser\source\repos\TextApp\TextApp\bin\Debug\net8.0-windows\TextApp.runtimeconfig.json
+C:\Users\nouser\source\repos\TextApp\TextApp\bin\Debug\net8.0-windows\TextApp.dll
+C:\Users\nouser\source\repos\TextApp\TextApp\bin\Debug\net8.0-windows\TextApp.pdb
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.AssemblyInfoInputs.cache
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.AssemblyInfo.cs
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.csproj.CoreCompileInputs.cache
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.dll
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\refint\TextApp.dll
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.pdb
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\TextApp.genruntimeconfig.cache
+C:\Users\nouser\source\repos\TextApp\TextApp\obj\Debug\net8.0-windows\ref\TextApp.dll
